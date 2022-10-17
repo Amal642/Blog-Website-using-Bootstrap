@@ -1,1 +1,1 @@
-Blog Website Fornt end made using Bootstrap
+Blog Website Front end made using Bootstrap
